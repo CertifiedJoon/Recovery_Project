@@ -70,6 +70,7 @@ void array_downsize(array *arr){
   arr->data = new_arr->data;
   arr->capacity = NewCap;
 }
+
 int adjust_capacity(int capacity) {
   const int MinInitialCapacity = 1;
   int AdjustedCapacity = MinInitialCapacity;
@@ -83,3 +84,48 @@ int adjust_capacity(int capacity) {
   return AdjustedCapacity;
 }
 
+void array_push(array *arr, int val){
+  array_resize(arr);
+  *(arr->data + arr->size) = val;
+  ++(arr->size);
+}
+
+void array_insert(array *arr, int index, int val){
+  array_CheckBound(arr, index);
+  array_resize(arr);
+  
+  memmove(arr->data + index + 1, arr->data + index, sizeof(int) * (arr->size - index));
+  *(arr->data + index) = val;
+  ++(arr->size);
+}
+
+void array_delete(array *arr, int index){
+  array_CheckBound(arr, index);
+  memmove(arr->data + index, arr->data + index + 1, sizeof(int) * (arr->size - index - 1));
+  (arr->size)--;
+  
+  array_resize(arr);
+}
+
+int array_pop(array *arr){
+  CheckNull(arr);
+  array_resize(arr);
+  
+  int popped = (arr->data + arr->size - 1);
+  (arr->size)--;
+  
+  return popped;
+}
+
+void array_destory(array *arr){
+  free(arr->data);
+  free(arr);
+}
+
+int array_find(array *arr, int val){
+  for(int *it = arr->data; it != arr->data + arr->size; it++){
+    if (*it == val)
+      return 1;
+  }
+  return 0;
+}
