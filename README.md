@@ -6,5 +6,5 @@
 2020.xx.xx : Reported for Duty at The First Aviation Brigade, ROKA.  
 2020.02.05 : Starting recovery project of my previous knowledge on C and C++. Starting from data structures implementation with c.  
 2020.02.06 : Array/vector implementation in C
-2020.02.26 : Data structure implementation / Algorithm revision complete
+2020.02.16 : Data structure implementation / Algorithm revision complete
 
