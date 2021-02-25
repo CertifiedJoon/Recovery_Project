@@ -8,7 +8,7 @@
 2021.02.06 : Array/vector implementation in C  
 2021.02.16 : Data structure implementation / Algorithm revision complete  
 2021.02.20 : Recursion studied. planning to revise the C++Primer once i get that delivered to base  
-2021.XX.XX : Back to studying.  
+2021.XX.XX : Tough week, Back to studying.  
 
 ## 2021-02-25 ~
 *Things to do everyday*
