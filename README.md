@@ -13,7 +13,7 @@
 ## 2021-02-21 ~ 2021-2-28
 *Things to do everyday*
 - [x] Anki Droid Flash Cards revision
-- [] Revise Algorithms  
+- [x] Revise Algorithms  
 
 *Weekly schedule*
 | Schedule      | Day                   | Night |
