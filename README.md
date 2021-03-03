@@ -30,13 +30,14 @@
 *Things to do everyday*
 - [ ] Anki Droid Flash Cards revision
 - [ ] Revise Algorithms  
+- [ ] Study/analyze passages from SAT reading and literature before my age.
 
 *Weekly schedule*
 | Schedule      | Day                   | Night |
 | ------------- |:---------------------:|:-----:|
 | Monday        | Day to write and read | C++ Revision (GH: Recovery project)|
 | Tuesday       | C++ Revision (GH: Recovery project) |   C++ Revision (GH: Recovery project) |
-| Wednesday     | SAT Prep|    C++ Revision (Recovery project) |
+| Wednesday     | C++ Revision (Recovery project)  | SAT Prep|
 | Thursday      | C++ Revision (GH: Recovery project) | C++ Revision (GH: Recovery project)|
 | Friday        | Python Data Structures and algorithm      |  C++ Revision (GH: Recovery project) |
 | Saturday      | C++ Revision (GH: Recovery project) | SAT prep |
