@@ -9,6 +9,7 @@
 2021.02.16 : Data structure implementation / Algorithm revision complete  
 2021.02.20 : Recursion studied. planning to revise the C++Primer once i get that delivered to base  
 2021.XX.XX : Tough week, Back to studying.  
+2021.03.06 : Started Using Groomide, A web-based IDE. Thanks god i can code in the army.
 
 ## 2021-02-21 ~ 2021-2-28
 *Things to do everyday*
