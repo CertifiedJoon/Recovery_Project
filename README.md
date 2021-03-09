@@ -58,6 +58,6 @@
 | Tuesday       | C++ Revision (GH: Recovery project) | C++ Revision (GH: Recovery project) |
 | Wednesday     | C++ Revision (GH: Recovery project) | SAT Prep |
 | Thursday      | C++ Revision (GH: Recovery project) | C++ Revision (GH: Recovery project)|
-| Friday        | Python Data Structures and algorithm| Sleep early |
+| Friday        | Python Data Structures and algorithm| Sleep 2 hours early |
 | Saturday      | C++ Revision (GH: Recovery project) | SAT prep |
 | Sunday        | C++ Revision (GH: Recovery project) | SAT prep |
