@@ -1,5 +1,7 @@
 # Recovery_Project_LOG
 
+## In Recovering lost programming knowledge during boot camp.
+
 2020.11.30 : enrolled in the Republic of Korea Army.  
 20XX.12.XX : Training camp started. Could not Study.  
 20XX.XX.XX : Specialized Training started.  
