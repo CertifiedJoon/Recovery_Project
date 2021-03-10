@@ -2,33 +2,23 @@
 #include "Sales_data.h"
 
 int main(){
-	double price = 0;
-	Sales_data data1, data2;
+	Sales_data total (std::cin);
+	Sales_data test1 ("X-201");
+	Sales_data test2 ("X-202", 25, 9.0);
 	
-	std::cin >> data1.bookNo >> data1.units_sold >> price;
-	data1.revenue = data1.units_sold * price;
+	print(std::cout, test1);
+	print(std::cout, test2);
 	
-	std::cin >> data2.bookNo >> data2.units_sold >> price;
-	data2.revenue = data2.units_sold * price;
-	
-	if (data1.bookNo == data2.bookNo){
-		unsigned totalCnt = data1.units_sold + data2.units_sold;
-		double totalRevenue = data1.revenue + data2.revenue;
-		
-		std::cout  << data1.bookNo << " " << totalCnt << " " << totalRevenue << " ";
-		
-		if (totalCnt)
-			std::cout << totalRevenue / totalCnt << std::endl;
-		else
-			std::cout << "(No Sales)" << std::endl;
-		
-		return 0;
-	} else {
-		std::cerr << "Data must refer to the same ISBN" << std::endl;
-		return -1;
+	Sales_data trans;
+	while(read(std::cin, trans)){
+		if (total.isbn() ==trans.isbn()) {
+			total.combine(trans);
+		} else {
+			print(std::cout, total) <<std::endl;
+			total = trans;
+		}
 	}
-	
+	print(std::cout, total) << std::endl;
 }
-
 
 
