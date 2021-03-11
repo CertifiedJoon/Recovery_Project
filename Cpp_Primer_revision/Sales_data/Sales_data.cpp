@@ -1,24 +1,23 @@
 #include <iostream>
+#include <fstream>
 #include "Sales_data.h"
 
-int main(){
-	Sales_data total (std::cin);
-	Sales_data test1 ("X-201");
-	Sales_data test2 ("X-202", 25, 9.0);
-	
-	print(std::cout, test1);
-	print(std::cout, test2);
+int main (int argc, char *argv[]) {
+	std::ifstream fin(argv[1]);
+	std::ofstream fout(argv[2], std::ofstream::app);
 	
 	Sales_data trans;
-	while(read(std::cin, trans)){
+	Sales_data total (fin);
+	
+	while(read(fin, trans)){
 		if (total.isbn() ==trans.isbn()) {
 			total.combine(trans);
 		} else {
-			print(std::cout, total) <<std::endl;
+			print(fout, total) << std::endl;
 			total = trans;
 		}
 	}
-	print(std::cout, total) << std::endl;
+	print(fout, total) << std::endl;
 }
 
 
