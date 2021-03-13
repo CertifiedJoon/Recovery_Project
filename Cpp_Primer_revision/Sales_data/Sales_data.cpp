@@ -1,5 +1,8 @@
 #include <iostream>
 #include <fstream>
+#include <algorithm>
+#include <vector>
+
 #include "Sales_data.h"
 
 int main (int argc, char *argv[]) {
@@ -8,16 +11,22 @@ int main (int argc, char *argv[]) {
 	
 	Sales_data trans;
 	Sales_data total (fin);
+	std::vector<Sales_data> vsd;
 	
 	while(read(fin, trans)){
-		if (total.isbn() ==trans.isbn()) {
+		if (total.isbn() == trans.isbn()) {
 			total.combine(trans);
 		} else {
-			print(fout, total) << std::endl;
+			vsd.push_back(total);
 			total = trans;
 		}
+	} 
+	
+	std::sort(vsd.begin(), vsd.end(), [](const Sales_data &sd1, const Sales_data &sd2) ->bool {return sd1.isbn() < sd2.isbn();} );
+
+	for (const Sales_data &sale : vsd) {
+		print(std::cout, sale) << std::endl;
 	}
-	print(fout, total) << std::endl;
 }
 
 
