@@ -48,10 +48,28 @@
 
 ## 2021-03-08 ~ 2021-03-15
 *Things to do everyday*
+- [x] Anki Droid Flash Cards revision
+- [x] Revise Algorithms  
+- [x] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
+- [x] Study/analyze passages from SAT reading and literature before my age.
+
+*Weekly schedule*
+| Schedule      | Day (17:00~20:20)                   | Night (22:00 ~ 24:00)|
+| ------------- |:---------------------:|:-----:|
+| Monday        | C++ Revision (GH: Recovery Project  | C++ Revision (GH: Recovery project) |
+| Tuesday       | C++ Revision (GH: Recovery project) | C++ Revision (GH: Recovery project) |
+| Wednesday     | C++ Revision (GH: Recovery project) | SAT Prep |
+| Thursday      | C++ Revision (GH: Recovery project) | C++ Revision (GH: Recovery project)|
+| Friday        | Python Data Structures and algorithm| Sleep 2 hours early |
+| Saturday      | C++ Revision (GH: Recovery project) | SAT prep |
+| Sunday        | C++ Revision (GH: Recovery project) | SAT prep |
+
+## 2021-03-15 ~ 2021-03-28
+*Things to do everyday*
 - [ ] Anki Droid Flash Cards revision
 - [ ] Revise Algorithms  
 - [ ] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
-- [ ] Study/analyze passages from SAT reading and literature before my age.
+- [ ] Send emails to UC/UofT/UBC undergrad admission about application about my situation.
 
 *Weekly schedule*
 | Schedule      | Day (17:00~20:20)                   | Night (22:00 ~ 24:00)|
