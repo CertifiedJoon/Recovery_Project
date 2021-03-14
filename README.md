@@ -74,7 +74,7 @@
 *Weekly schedule*
 | Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
 | ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
-| Monday        |       Bodyweight workout      | C++ Revision (GH: Recovery Project)    | C++ Revision (GH: Recovery project) |
+| Monday        |       Bodyweight workout      | C++ Revision (GH: Recovery Project)    | A day to read and write             |
 | Tuesday       |       Full Abs Wokout         | C++ Revision (GH: Recovery project)    | C++ Revision (GH: Recovery project) |
 | Wednesday     |       Weight training         | C++ Revision (GH: Recovery project)    | SAT Prep                            |
 | Thursday      |       Full Abs Workout        | C++ Revision (GH: Recovery project)    | C++ Revision (GH: Recovery project) |
