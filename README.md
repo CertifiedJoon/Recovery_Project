@@ -72,7 +72,7 @@
 - [ ] Send emails to UC/UofT/UBC undergrad admission about application about my situation.
 
 *Weekly schedule*
-| Schedule      | Workout Session (16:20 - 17:20| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
 | ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
 | Monday        |       Bodyweight workout      | C++ Revision (GH: Recovery Project)    | C++ Revision (GH: Recovery project) |
 | Tuesday       |       Full Abs Wokout         | C++ Revision (GH: Recovery project)    | C++ Revision (GH: Recovery project) |
