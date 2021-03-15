@@ -48,10 +48,10 @@
 
 ## 2021-03-08 ~ 2021-03-15
 *Things to do everyday*
-- [ ] Anki Droid Flash Cards revision
-- [ ] Revise Algorithms  
-- [ ] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
-- [ ] Study/analyze passages from SAT reading and literature before my age.
+- [x] Anki Droid Flash Cards revision
+- [x] Revise Algorithms  
+- [x] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
+- [x] Study/analyze passages from SAT reading and literature before my age.
 
 *Weekly schedule*
 | Schedule      | Day (17:00~20:20)                   | Night (22:00 ~ 24:00)|
@@ -63,3 +63,21 @@
 | Friday        | Python Data Structures and algorithm| Sleep 2 hours early |
 | Saturday      | C++ Revision (GH: Recovery project) | SAT prep |
 | Sunday        | C++ Revision (GH: Recovery project) | SAT prep |
+
+## 2021-03-15 ~ 2021-03-28
+*Things to do everyday*
+- [ ] Anki Droid Flash Cards revision
+- [ ] Revise Algorithms  
+- [ ] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
+- [ ] Send emails to UC/UofT/UBC undergrad admission about application about my situation.
+
+*Weekly schedule*
+| Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Bodyweight workout      | C++ Revision (GH: Recovery Project)    | A day to read and write             |
+| Tuesday       |       Full Abs Wokout         | C++ Revision (GH: Recovery project)    | C++ Revision (GH: Recovery project) |
+| Wednesday     |       Weight training         | C++ Revision (GH: Recovery project)    | SAT Prep                            |
+| Thursday      |       Full Abs Workout        | C++ Revision (GH: Recovery project)    | C++ Revision (GH: Recovery project) |
+| Friday        |       Bodyweigth workout      | Python Data Structures and algorithm   | Sleep 2 hours early                 |
+| Saturday      |       Bodyweight workout      | C++ Revision (GH: Recovery project)    | SAT prep                            |
+| Sunday        |       Full Abs workout        | C++ Revision (GH: Recovery project)    | SAT prep                            |
