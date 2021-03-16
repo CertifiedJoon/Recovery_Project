@@ -78,6 +78,6 @@
 | Tuesday       |       Full Abs Wokout         | C++ Revision (GH: Recovery project)    | C++ Revision (GH: Recovery project) |
 | Wednesday     |       Weight training         | C++ Revision (GH: Recovery project)    | SAT Prep                            |
 | Thursday      |       Full Abs Workout        | C++ Revision (GH: Recovery project)    | C++ Revision (GH: Recovery project) |
-| Friday        |       Bodyweigth workout      | Python Data Structures and algorithm   | Sleep 2 hours early                 |
+| Friday        |       Bodyweigth workout      | Book : Open Data Structures C++        | Sleep 2 hours early                 |
 | Saturday      |       Bodyweight workout      | C++ Revision (GH: Recovery project)    | SAT prep                            |
 | Sunday        |       Full Abs workout        | C++ Revision (GH: Recovery project)    | SAT prep                            |
