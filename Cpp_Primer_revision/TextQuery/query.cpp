@@ -1,10 +1,10 @@
 #include "query.h"
 #include <iostream>
 #include <fstream>
-
+#include <string>
 void runQueries(std::ifstream &fin) 
 {
-	Textquery tq(infile);
+	TextQuery tq(fin);
 	
 	while(true){
 		std::cout << "enter a word to look for, or q to quit: ";
@@ -16,7 +16,7 @@ void runQueries(std::ifstream &fin)
 	}
 }
 
-/* i need:
-	
-
-*/
+int main(int argc, char* argv[]) {
+	std::ifstream fin(argv[1]);
+	runQueries(fin);
+} 
