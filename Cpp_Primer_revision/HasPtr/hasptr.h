@@ -12,5 +12,5 @@ private:
 
 HasPtr& HasPtr::operator=(const HasPtr& rhs) 
 {
-	return (ps == rhs.ps) && (i == rhs.i);
+	
 }
