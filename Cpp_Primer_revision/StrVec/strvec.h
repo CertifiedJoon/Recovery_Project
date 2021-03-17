@@ -69,12 +69,18 @@ void StrVec::resize(size_t i, const std::string &s)
 	}
 }
 
-StrVec& StrVec::push_back(const std::string&) 
+StrVec& StrVec::push_back(const std::string&s) 
 {
 	chk_n_alloc();
 	alloc.construct(first_free++, s);
 	
 	return *this;
+}
+
+StrVec& StrVec::push_back(std::string &&s)
+{
+	chk_n_alloc();
+	alloc.construct(first_free++, std::move(s));
 }
 
 std::pair<std::string*, std::string*>
