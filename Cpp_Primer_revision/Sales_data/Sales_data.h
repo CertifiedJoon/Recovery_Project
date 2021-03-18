@@ -12,8 +12,12 @@ std::istream &read(std::istream&, Sales_data&);
 Sales_data& operator+ (const Sales_data&, const Sales_data&);
 std::istream& operator>> (std::istream &, Sales_data&);
 std::ostream& operator<< (std::ostream &, const Sales_data&);
+bool operator== (const Sales_data &, const Sales_data &);
+bool operator!= (const Sales_data &, const Sales_data &);
 
 class Sales_data{
+friend bool operator== (const Sales_data &, const Sales_data &);
+friend bool operator!= (const Sales_data &, const Sales_data &);
 friend std::istream& operator>> (std::istream &, Sales_data&);
 friend std::ostream& operator<< (std::ostream &, const Sales_data&);
 friend Sales_data& operator+ (const Sales_data&, const Sales_data&);
@@ -92,6 +96,15 @@ std::istream& operator>>(std::istream &is, Sales_data &item)
 	else
 		item = Sales_data();
 	return is;
+}
+
+bool operator== (const Sales_data &lhs, const Sales_data &rhs)
+{
+	return (lhs.bookNo == rhs.bookNo) && lhs.units_sold == rhs.units_sold & lhs.revenue() == rhs.revenue();
+}
+bool operator!= (const Sales_data &lhs, const Sales_data &rhs)
+{
+	return !(lhs == rhs)
 }
 
 #endif
