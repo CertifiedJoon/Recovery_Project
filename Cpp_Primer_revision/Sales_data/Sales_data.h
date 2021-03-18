@@ -69,9 +69,11 @@ bool compareIsbn (const Sales_data &sd1, const Sales_data &sd2) {
 	return sd1.isbn() < sd2.isbn();
 }
 
-Sales_data& operator+ (const Sales_data&, const Sales_data&)
+Sales_data& operator+ (const Sales_data &lhs, const Sales_data &rhs)
 {
-	
+	Sales_data sum = lhs;
+	sum += rhs;
+	return sum;
 }
 
 std::ostream& operator<<(std::ostream &os, const Sales_data &item)
