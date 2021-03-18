@@ -1,13 +1,15 @@
 #include <string>
 #include <allocator>
 #include <initializer_list>
+
 class StrVec {
 	StrVec() : elements(nullptr), first_free(nullptr), cap(nullptr) {}
 	StrVec (const StrVec&);
 	StrVec (std::initializer_list<std::string> il);
 	StrVec (StrVec &&s) noexcept : elements(s.elements), first_free(s.first_free), cap(s.cap) {s.elements = s.first_free = s.cap = nullptr;}
-	StrVec &operator=(const StrVec&);
-	StrVec &operator=(StrVec&&);
+	StrVec &operator= (const StrVec&);
+	StrVec &operator= (StrVec&&);
+	StrVec &operator= (std::initializer_list<std::string>);
 	~StrVec();
 	
 	StrVec& push_back(const std::string&);
@@ -31,15 +33,6 @@ private:
 };
 
 std::allocator<std::string> StrVec::alloc;
-
-StrVec::StrVec(std::initializer_list<std::string> il) 
-{
-	auto newdata = alloc_n_copy(il.begin(), il.end());
-	free();
-	elements = newdata.first;
-	first_free = newdata.second;
-	cap = newdata.second;
-}
 
 void StrVec::reserve(size_t i)
 {
@@ -99,6 +92,18 @@ void StrVec::free ()
 		alloc.deallocate(elements, cap - elements);
 	}
 }
+void StrVec::reallocate()
+{
+	auto newcap = size() ? 2 * size() : 1;
+	auto first = alloc.allocate(newcap);
+	auto last = std::unintialized_copy(std::make_move_iterator(begin()),
+									   std::make_move_iterator(end()),
+									   first);
+	free();
+	elements = first;
+	first_free = last;
+	cap = elements + newcap;
+}
 
 StrVec::StrVec (const StrVec &s) 
 {
@@ -133,15 +138,20 @@ StrVec& StrVec::operator=(StrVec &&rhs)
 	return *this;
 }
   
-void StrVec::reallocate()
+StrVec::StrVec(std::initializer_list<std::string> il) 
 {
-	auto newcap = size() ? 2 * size() : 1;
-	auto first = alloc.allocate(newcap);
-	auto last = std::unintialized_copy(std::make_move_iterator(begin()),
-									   std::make_move_iterator(end()),
-									   first);
+	auto newdata = alloc_n_copy(il.begin(), il.end());
 	free();
-	elements = first;
-	first_free = last;
-	cap = elements + newcap;
+	elements = newdata.first;
+	first_free = newdata.second;
+	cap = newdata.second;
+}
+					  
+StrVec& StrVec::operator=(std::intializer_list<std::string>)
+{
+	auto data = alloc_n_copy(il.begin(), il.end());
+	free();
+	elements = data.first;
+	first_free = cap = data.second;
+	return *this;
 }
