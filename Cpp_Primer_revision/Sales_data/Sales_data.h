@@ -10,8 +10,12 @@ Sales_data add(const Sales_data&, const Sales_data&);
 std::ostream &print(std::ostream&, const Sales_data&);
 std::istream &read(std::istream&, Sales_data&);
 Sales_data& operator+ (const Sales_data&, const Sales_data&);
+std::istream& operator>> (std::istream &, Sales_data&);
+std::ostream& operator<< (std::ostream &, const Sales_data&);
 
 class Sales_data{
+friend std::istream& operator>> (std::istream &, Sales_data&);
+friend std::ostream& operator<< (std::ostream &, const Sales_data&);
 friend Sales_data& operator+ (const Sales_data&, const Sales_data&);
 friend std::ostream &print(std::ostream&, const Sales_data&);
 friend std::istream &read(std::istream&, Sales_data&);
@@ -23,8 +27,6 @@ public:
 	Sales_data (std::istream &is);
 	
 	Sales_data& operator+= (const Sales_data &);
-	std::istream& operator>> (std::istream &, Sales_data&);
-	std::ostream& operator<< (std::ostream &, const Sales_data&);
 	
 	std::string isbn() const {return bookNo;}
 	Sales_data& combine(const Sales_data&);
@@ -72,7 +74,22 @@ Sales_data& operator+ (const Sales_data&, const Sales_data&)
 	
 }
 
-std::ostream& &operator<<(std::ostream)
+std::ostream& operator<<(std::ostream &os, const Sales_data &item)
+{
+	os << item.isbn() << " " << item.units_sold << " " 
+	   << item.revenue() << " " << item.avg.price();
+	return os;
+}
 
+std::istream& operator>>(std::istream &is, Sales_data &item)
+{
+	double price;
+	is >> item.bookNo >> item.units_sold >> price;
+	if (is)
+		item.revenue = item.units_sold * price;
+	else
+		item = Sales_data();
+	return is;
+}
 
 #endif
