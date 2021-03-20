@@ -4,7 +4,7 @@
 #include <string>
 void runQueries(std::ifstream &fin) 
 {
-	TextQuery tq(fin);
+	textQuery tq(fin);
 	
 	while(true){
 		std::cout << "enter a word to look for, or q to quit: ";

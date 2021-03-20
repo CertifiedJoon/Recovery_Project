@@ -1,78 +1,38 @@
 #ifndef QUERY_H
 #define QUERY_H
 
-#include <vector>
-#include <map>
-#include <set>
-#include <string>
-#include <fstream>
+#include "textQuery.h"
 #include <iostream>
-#include <memory>
-#include <sstream>
 
-class QueryResult;
+class Query;
 
-class TextQuery{
-friend class QueryResult;
-public:
-	using line_no = std::vector<std::string>::size_type;
-	TextQuery(std::ifstream &);
-	
-	QueryResult query(const std::string &) const;
+class queryBase {
+	friend class Query;
+protected:
+	using line_no = textQuery::line_no;
+	virtual ~queryBase() = default;
 private:
-	std::shared_ptr<std::vector<std::string>> file;
-	std::map<std::string, std::shared_ptr<std::set<line_no>>> wm;
+	virtual QueryResult eval(const TextQuery&) const = 0;
+	virtual std::string rep() const = 0;
 };
 
-std::ostream& print(std::ostream&, const QueryResult&);
-
-class QueryResult{
-friend std::ostream& print(std::ostream&, const QueryResult&);
+class Query {
+	friend Query operator~(const Query &);
+	friend Query operator|(const Query&, const Query&);
+	friend Query operator&(const Query&, const Query&);
 public:
-	QueryResult(std::string s,
-				std::shared_ptr<std::set<TextQuery::line_no>> p,
-				std::shared_ptr<std::vector<std::string>> f)
-				: sought(s), lines(p), file(f) { }
+	Query(const std::string&);
+	QueryResult eval (const TextQuery &t) const {return q->eval (t);}
+	std::string rep () const {return q->rep();}
 private:
-	std::string sought;
-	std::shared_ptr<std::vector<std::string>> file;
-	std::shared_ptr<std::set<TextQuery::line_no>> lines;
+	Query(std::shared_ptr<queryBase> query): q(query) {}
+	std::shared_ptr<queryBase> q;
 };
 
-TextQuery::TextQuery (std::ifstream &fin) : file (new std::vector<std::string>)
+std::ostream&
+operator<<(std::ostream &os, const Query &query)
 {
-	std::string text;
-	while(std::getline(fin, text)){
-		file->push_back(text);
-		int n = file->size() - 1;
-		std::istringstream iss(text);
-		std::string word;
-		while(iss >> word) {
-			auto &lines = wm[word];
-			if(!lines)
-				lines.reset(new std::set<line_no>);
-			lines->insert(n);
-		}
-	}
+	returnn os << query.rep();
 }
-
-
-QueryResult TextQuery::query(const std::string &sought) const {
-	static std::shared_ptr<std::set<line_no>> nodata (new std::set<line_no>);
-	auto loc = wm.find(sought);
-	if (loc == wm.end())
-		return QueryResult(sought, nodata, file);
-	else
-		return QueryResult(sought, loc->second, file);
-}
-
-std::ostream& print(std::ostream &os, const QueryResult &qr)
-{
-	os << qr.sought << " occurs " << qr.lines->size() << "time(s)" << std::endl;
-	for (auto num : *qr.lines)
-		os << "\t (line " << num + 1 << ") " << *(qr.file->begin() + num) << std::endl;
-	return os;
-}
-
 
 #endif

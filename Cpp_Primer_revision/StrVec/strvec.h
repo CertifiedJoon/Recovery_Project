@@ -155,3 +155,4 @@ StrVec& StrVec::operator=(std::intializer_list<std::string>)
 	first_free = cap = data.second;
 	return *this;
 }
+
