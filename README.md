@@ -93,8 +93,8 @@
 | ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
 | Monday        |       Bodyweight workout      | Data structure implementation in cpp   | A day to read and write             |
 | Tuesday       |       Full Abs Wokout         | Data structures & algorithms in python | C++ Revision (Ankidroid)            |
-| Wednesday     |       Weight training         | Data structure implementation in cpp   | python exercises on the book        |
-| Thursday      |       Full Abs Workout        | Data structures & algorithms in python | Python Exercises on the book        |
-| Friday        |       Bodyweigth workout      | Data structure implementation in cpp   | Sleep 2 hours early                 |
+| Wednesday     |       Weight training         | Data structures & algorithms in python | python exercises on the book        |
+| Thursday      |       Full Abs Workout        | C++ Revision on AnkiDroid              | Python Exercises on the book        |
+| Friday        |       Bodyweigth workout      | Add Python cards to AnkiDroid          | Sleep 2 hours early                 |
 | Saturday      |       Bodyweight workout      | Data structures & algorithms in python | Sleep 2 hours early                 |
 | Sunday        |       Full Abs workout        | Data structure implementation in cpp   | In themachine learning in python    |
