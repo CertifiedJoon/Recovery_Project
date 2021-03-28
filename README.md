@@ -13,6 +13,9 @@
 2021.XX.XX : Tough week, Back to studying.  
 2021.03.06 : Started Using Groomide, A web-based IDE. Thanks god i can code in the army.
 
+## One Year Plan
+![image](https://user-images.githubusercontent.com/61619422/112743611-af7cdf80-8fd3-11eb-870a-9e929cb84881.png)
+
 ## 2021-02-21 ~ 2021-2-28
 *Things to do everyday*
 - [x] Anki Droid Flash Cards revision
@@ -84,9 +87,9 @@
 
 ## 2021-03-22 ~ 2021-03-28
 *Things to do everyday*
-- [ ] Anki Droid Flash Cards revision
-- [ ] Revise Algorithms  
-- [ ] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
+- [x] Anki Droid Flash Cards revision
+- [x] Revise Algorithms  
+- [x] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
 
 *Weekly schedule*
 | Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
@@ -98,3 +101,24 @@
 | Friday        |       Bodyweigth workout      | Add Python cards to AnkiDroid          | Sleep 2 hours early                 |
 | Saturday      |       Bodyweight workout      | Data structures & algorithms in python | Sleep 2 hours early                 |
 | Sunday        |       Full Abs workout        | Data structure implementation in cpp   | In themachine learning in python    |
+
+## 2021-03-29 ~ 2021-04-05
+*Objectives of the week*
+- Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)
+- Implement one data structure in c  (to refresh my c fingers)
+- Implement one data structure in cpp (to refresh my cpp fingers)
+*Things to do everyday*
+- [ ] Anki Droid Flash Cards revision
+- [ ] Revise Algorithms  
+- [ ] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
+
+*Weekly schedule*
+| Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Full Abs-Workout        | Data structure implementation in cpp   | Data structure implementation in cpp|
+| Tuesday       |       Body Weight Workout     | Data structures & algorithms in python | Update Ankidroid with python cards  |
+| Wednesday     |       Weight training         | Data structure implementation in cpp   | Data structure implementation in cpp|
+| Thursday      |       Full Abs Workout        | Python exercises from the book         | Python exercises on the book        |
+| Friday        |       Body Weight workout     | Data structure implementation in c     | Sleep 2 hours early                 |
+| Saturday      |       Body Weight workout     | Data structures & algorithms in python | Update ankidroid with python cards(afternoon)|
+| Sunday        |       Full Abs workout        | Python exercises on the book           | Finish undone work and read or write|
