@@ -103,11 +103,11 @@
 | Sunday        |       Full Abs workout        | Data structure implementation in cpp   | In themachine learning in python    |
 
 ## 2021-03-29 ~ 2021-04-05
-*Objectives of the week*
-- Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)
-- Implement one data structure in c  (to refresh my c fingers)
-- Implement one data structure in cpp (to refresh my cpp fingers)
-*Things to do everyday*
+*Objectives of the week*  
+- Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)  
+- Implement one data structure in c  (to refresh my c fingers)  
+- Implement one data structure in cpp (to refresh my cpp fingers)  
+*Things to do everyday*  
 - [ ] Anki Droid Flash Cards revision
 - [ ] Revise Algorithms  
 - [ ] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
