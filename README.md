@@ -104,9 +104,12 @@
 
 ## 2021-03-29 ~ 2021-04-05
 *Objectives of the week*  
-- Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)  
-- Implement one data structure in c  (to refresh my c fingers)  
-- Implement one data structure in cpp (to refresh my cpp fingers)  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
+| Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)| xxxxxxxxxxxxxxxxx |
+| Implement one data structure in c  (to refresh my c fingers) |   xxxxxxxxxxxxxxxxxxxx  |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxx|  
+
 *Things to do everyday*  
 - [ ] Anki Droid Flash Cards revision
 - [ ] Revise Algorithms  
