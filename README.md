@@ -11,8 +11,8 @@
 2021.02.16 : Data structure implementation / Algorithm revision complete  
 2021.02.20 : Recursion studied. planning to revise the C++Primer once i get that delivered to base  
 2021.XX.XX : Tough week, Back to studying.  
-2021.03.06 : Started Using Groomide, A web-based IDE. Thanks god i can code in the army.
-
+2021.03.06 : Started Using Groomide, A web-based IDE. Thanks god i can code in the army.  
+2021.04.01 : Created a year objective, a month objective and a week objective
 ## One Year Plan
 ![image](https://user-images.githubusercontent.com/61619422/112743611-af7cdf80-8fd3-11eb-870a-9e929cb84881.png)
 
