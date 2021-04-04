@@ -127,7 +127,7 @@
 | Sunday        |       Full Abs workout        | Python exercises on the book           | Finish undone work and read or write|
 
 
-## 2021-03-29 ~ 2021-04-05
+## 2021-04-05 ~ 2021-04-11
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
@@ -137,8 +137,7 @@
 
 *Things to do everyday*  
 - [ ] Anki Droid Flash Cards revision
-- [ ] Revise Algorithms  
-- [ ] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
+- [ ] Do Python Exercises and leetcodes that ive printed
 
 *Weekly schedule*
 | Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
