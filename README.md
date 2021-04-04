@@ -106,6 +106,31 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
+| Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)| Finished chapter 1,2,3 |
+| Implement one data structure in c  (to refresh my c fingers) |   Implemented vector class  |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | Implemented Vector, Hash, Heap(Priority Queue), Binary Search Tree, LinkedList, |  
+
+*Things to do everyday*  
+- [x] Anki Droid Flash Cards revision
+- [x] Revise Algorithms  
+- [x] (morning) Study the daily dose of vocabs from the texts i read --> update them on ankidroid.
+
+*Weekly schedule*
+| Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Full Abs-Workout        | Data structure implementation in cpp   | Data structure implementation in cpp|
+| Tuesday       |       Body Weight Workout     | Data structures & algorithms in python | Update Ankidroid with python cards  |
+| Wednesday     |       Weight training         | Data structure implementation in cpp   | Data structure implementation in cpp|
+| Thursday      |       Full Abs Workout        | Python exercises from the book         | Python exercises on the book        |
+| Friday        |       Body Weight workout     | Data structure implementation in c     | Sleep 2 hours early                 |
+| Saturday      |       Body Weight workout     | Data structures & algorithms in python | Update ankidroid with python cards(afternoon)|
+| Sunday        |       Full Abs workout        | Python exercises on the book           | Finish undone work and read or write|
+
+
+## 2021-03-29 ~ 2021-04-05
+*Objectives of the week*  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
 | Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)| xxxxxxxxxxxxxxxxx |
 | Implement one data structure in c  (to refresh my c fingers) |   xxxxxxxxxxxxxxxxxxxx  |
 | Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxx|  
@@ -118,10 +143,11 @@
 *Weekly schedule*
 | Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
 | ------------- |:-----------------------------:|:--------------------------------------:|:-----------------------------------:|
-| Monday        |       Full Abs-Workout        | Data structure implementation in cpp   | Data structure implementation in cpp|
-| Tuesday       |       Body Weight Workout     | Data structures & algorithms in python | Update Ankidroid with python cards  |
-| Wednesday     |       Weight training         | Data structure implementation in cpp   | Data structure implementation in cpp|
-| Thursday      |       Full Abs Workout        | Python exercises from the book         | Python exercises on the book        |
-| Friday        |       Body Weight workout     | Data structure implementation in c     | Sleep 2 hours early                 |
-| Saturday      |       Body Weight workout     | Data structures & algorithms in python | Update ankidroid with python cards(afternoon)|
-| Sunday        |       Full Abs workout        | Python exercises on the book           | Finish undone work and read or write|
+| Monday        |       Full Abs-Workout        | DS & Algorithms in python chapter 4    | DS & Algorithms in python chapter 4 |
+| Tuesday       |       Body Weight Workout     | DS & Algorithms in python chapter 4    | DS & Algorithms in python chapter 4 |
+| Wednesday     |       Weight training         | Data structure implementation in cpp   | Data structure implementation in c  |
+| Thursday      |       Full Abs Workout        | DS & Algorithms in python chapter 5    | DS & Algorithms in python chapter 5 |
+| Friday        |       Vacation starts         | Vacation starts                        | Vacation starts                     |
+| Saturday      |       Body Weight workout     |                                        |                                     |
+| Sunday        |       Full Abs workout        | DS & Algorithms in python chapter 5    | Plan for the next weeks             |
+
