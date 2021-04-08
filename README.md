@@ -148,5 +148,5 @@
 | Thursday      |       Full Abs Workout        | DS & Algorithms in python chapter 5    | DS & Algorithms in python chapter 5 |
 | Friday        |       Vacation starts         | Vacation starts                        | Vacation starts                     |
 | Saturday      |       Body Weight workout     |                                        |                                     |
-| Sunday        |       Full Abs workout        | DS & Algorithms in python chapter 5    | Plan for the next weeks             |
+| Sunday        |       Full Abs workout        | DS & Algorithms in python chapter 5    | Plan for the next weeks n book toefl|
 
