@@ -150,3 +150,25 @@
 | Saturday      |       Body Weight workout     |                                        |                                     |
 | Sunday        |       Full Abs workout        | DS & Algorithms in python chapter 5    | Plan for the next weeks n book toefl|
 
+## 2021-05-24 ~ 2021-05-30
+*Objectives of the week*  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
+| Udemy web development section 9 to 17 | xxxxxxxxxxxxxxxxx |
+| Implement one data structure in c  (to refresh my c fingers) |   xxxxxxxxxxxxxxxxxxxx  |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxx|
+
+*Things to do everyday*  
+- [ ] Anki Droid Flash Cards revision.
+- [ ] Work on vocabs from the texts ive read.
+
+*Weekly schedule*
+| Schedule      | Workout Session (Morning) (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:----------------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Full Abs-Workout                   | Udemy WebDev section 9                 | continued                           |
+| Tuesday       |       Body Weight Workout                | Implment vector in c                   | DS and Algo in python splay trees   |
+| Wednesday     |       Weight training                    | Udemy Webdev section 10                | continued                           |
+| Thursday      |       Full Abs Workout                   | Implement vector in cplus plus         | DS and Algo in python splay trees   |
+| Friday        |       Vacation starts                    | Udemy Webdev section 11                | Sleep Early                         |
+| Saturday      |       Body Weight workout                | Udemy Webdev Section 12,13,14          | Sleep Early                         |
+| Sunday        |       Full Abs workout                   | Udemy Webdev SEction 15,16,17          | Plan for the next weeks & Take new book |
