@@ -131,13 +131,13 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
-| Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)| xxxxxxxxxxxxxxxxx |
-| Implement one data structure in c  (to refresh my c fingers) |   xxxxxxxxxxxxxxxxxxxx  |
-| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxx|  
+| Finish two chapters of Data Structures and Algorithms in Python (weve got thirteen chapters and eight weeks, we want to finish this book before June)| Book finished half|
+| Implement one data structure in c  (to refresh my c fingers) |   done                  |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | done               |  
 
 *Things to do everyday*  
-- [ ] Anki Droid Flash Cards revision
-- [ ] Do Python Exercises and leetcodes that ive printed
+- [x] Anki Droid Flash Cards revision
+- [x] Do Python Exercises and leetcodes that ive printed
 
 *Weekly schedule*
 | Schedule      | Workout Session(16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
@@ -182,7 +182,7 @@
 | Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxxxx|
 
 *Things to do everyday*  
-- [x] Anki Droid Flash Cards revision.
+- [ ] Anki Droid Flash Cards revision.
 - [ ] Work on vocabs from the texts ive read.
 - [ ] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
 - [ ] Cold shower every morning.
