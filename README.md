@@ -172,3 +172,28 @@
 | Friday        |       Vacation starts                    | Udemy Webdev section 11                | Sleep Early                         |
 | Saturday      |       Body Weight workout                | Udemy Webdev Section 12,13,14          | Sleep Early                         |
 | Sunday        |       Full Abs workout                   | Udemy Webdev SEction 15,16,17          | Plan for the next weeks & Take new book |
+
+## 2021-05-31 ~ 2021-06-06
+*Objectives of the week*  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
+| Udemy web development section 18 to 26 | xxxxxxxxxxxxxxxxxxxxxxx|
+| Implement one data structure in c  (to refresh my c fingers) |   xxxxxxxxxxxxxxxxxxxxxxxxxx  |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxxxx|
+
+*Things to do everyday*  
+- [x] Anki Droid Flash Cards revision.
+- [ ] Work on vocabs from the texts ive read.
+- [ ] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
+- [ ] Cold shower every morning.
+
+*Weekly schedule*
+| Schedule      | Workout Session (Morning) (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:----------------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Full Abs-Workout                   | Udemy WebDev section 18,19             | continued                           |
+| Tuesday       |       Body Weight Workout                | Implment linked list in c              | udemy webdev section 21 if possible |
+| Wednesday     |       Weight training                    | Udemy Webdev section 20                | continued                           |
+| Thursday      |       Full Abs Workout                   | Implement linked list in c++           | udemy webdev section 21 if possible |
+| Friday        |       Vacation starts                    | Udemy Webdev section 21,22             | Sleep Early                         |
+| Saturday      |       Body Weight workout                | Udemy Webdev Section 23                | Sleep Early                         |
+| Sunday        |       Full Abs workout                   | Udemy Webdev SEction 24,25,26          | Plan for the next weeks & Take new book |
