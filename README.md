@@ -154,12 +154,12 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
-| Udemy web development section 9 to 17 | xxxxxxxxxxxxxxxxx |
-| Implement one data structure in c  (to refresh my c fingers) |   xxxxxxxxxxxxxxxxxxxx  |
-| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxx|
+| Udemy web development section 9 to 17 | done|
+| Implement one data structure in c  (to refresh my c fingers) |   done  |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | done|
 
 *Things to do everyday*  
-- [ ] Anki Droid Flash Cards revision.
+- [x] Anki Droid Flash Cards revision.
 - [ ] Work on vocabs from the texts ive read.
 
 *Weekly schedule*
