@@ -178,7 +178,7 @@
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
 | Udemy web development section 18 to 26 | xxxxxxxxxxxxxxxxxxxxxxx|
-| Implement one data structure in c  (to refresh my c fingers) |   xxxxxxxxxxxxxxxxxxxxxxxxxx  |
+| Implement one data structure in c  (to refresh my c fingers) |   Done  |
 | Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxxxx|
 
 *Things to do everyday*  
