@@ -184,8 +184,8 @@
 *Things to do everyday*  
 - [ ] Anki Droid Flash Cards revision.
 - [ ] Work on vocabs from the texts ive read.
-- [ ] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
-- [ ] Cold shower every morning.
+- [x] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
+- [x] Cold shower every morning.
 
 *Weekly schedule*
 | Schedule      | Workout Session (Morning) (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
