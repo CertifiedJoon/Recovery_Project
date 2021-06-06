@@ -177,9 +177,9 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
-| Udemy web development section 18 to 26 | xxxxxxxxxxxxxxxxxxxxxxx|
-| Implement one data structure in c  (to refresh my c fingers) |   Done  |
-| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxxxx|
+| Udemy web development section 18 to 26 | 18-22|
+| Implement one data structure in c  (to refresh my c fingers) |   implemented linkedlist  |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | implemented linkedlist |
 
 *Things to do everyday*  
 - [ ] Anki Droid Flash Cards revision.
