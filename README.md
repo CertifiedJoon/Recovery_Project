@@ -177,13 +177,13 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
-| Udemy web development section 18 to 26 | 18-22|
+| Udemy web development section 18 to 26 | 18-26 done|
 | Implement one data structure in c  (to refresh my c fingers) |   implemented linkedlist  |
 | Implement one data structure in cpp (to refresh my cpp fingers)   | implemented linkedlist |
 
 *Things to do everyday*  
-- [ ] Anki Droid Flash Cards revision.
-- [ ] Work on vocabs from the texts ive read.
+- [s] Anki Droid Flash Cards revision.
+- [s] Work on vocabs from the texts ive read.
 - [x] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
 - [x] Cold shower every morning.
 
