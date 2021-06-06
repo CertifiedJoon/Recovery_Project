@@ -182,8 +182,8 @@
 | Implement one data structure in cpp (to refresh my cpp fingers)   | implemented linkedlist |
 
 *Things to do everyday*  
-- [s] Anki Droid Flash Cards revision.
-- [s] Work on vocabs from the texts ive read.
+- [x] Anki Droid Flash Cards revision.
+- [x] Work on vocabs from the texts ive read.
 - [x] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
 - [x] Cold shower every morning.
 
@@ -197,3 +197,28 @@
 | Friday        |       Vacation starts                    | Udemy Webdev section 21,22             | Sleep Early                         |
 | Saturday      |       Body Weight workout                | Udemy Webdev Section 23                | Sleep Early                         |
 | Sunday        |       Full Abs workout                   | Udemy Webdev SEction 24,25,26          | Plan for the next weeks & Take new book |
+
+## 2021-06-07 ~ 2021-06-13
+*Objectives of the week*  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
+| Udemy web development section 27 to 33 | xxxxxxxxxx|
+| Implement one data structure in c  (to refresh my c fingers) |  xxxxxxxxxxxxxxxxxxxxxxxxxx|
+| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxxxxx |
+
+*Things to do everyday*  
+- [ ] Anki Droid Flash Cards revision.
+- [ ] Work on vocabs from the texts ive read.
+- [ ] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
+- [ ] Cold shower every morning.
+
+*Weekly schedule*
+| Schedule      | Workout Session (Morning) (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:----------------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Full Abs-Workout                   | Cant study due to shift                | continued                           |
+| Tuesday       |       Body Weight Workout                | Implment queue in ll using c           | udemy webdev section 27             |
+| Wednesday     |       Weight training                    | Udemy Webdev section 28,29             | continued                           |
+| Thursday      |       Full Abs Workout                   | Implement queue in ll in c++           | udemy webdev section 30             |
+| Friday        |       Vacation starts                    | Udemy Webdev section 31                | Sleep Early                         |
+| Saturday      |       Body Weight workout                | Udemy Webdev Section 32                | Sleep Early                         |
+| Sunday        |       Full Abs workout                   | Udemy Webdev SEction 33                | Plan for the next weeks & Take new book |
