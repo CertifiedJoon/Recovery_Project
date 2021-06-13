@@ -202,15 +202,15 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
-| Udemy web development section 27 to 33 | xxxxxxxxxx|
-| Implement one data structure in c  (to refresh my c fingers) |  xxxxxxxxxxxxxxxxxxxxxxxxxx|
-| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxxxxxxxx |
+| Udemy web development section 27 to 33 |Chapter 27 to 32. Had a few hiccups|
+| Implement one data structure in c  (to refresh my c fingers) |  Done                       |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | DOne                   |
 
 *Things to do everyday*  
-- [ ] Anki Droid Flash Cards revision.
-- [ ] Work on vocabs from the texts ive read.
-- [ ] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
-- [ ] Cold shower every morning.
+- [x] Anki Droid Flash Cards revision.
+- [x] Work on vocabs from the texts ive read.
+- [x] Work on applying lessons from "Atomic Habit" & "말의 품격 - 이기주".
+- [x] Cold shower every morning.
 
 *Weekly schedule*
 | Schedule      | Workout Session (Morning) (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
@@ -222,3 +222,28 @@
 | Friday        |       Vacation starts                    | Udemy Webdev section 31                | Sleep Early                         |
 | Saturday      |       Body Weight workout                | Udemy Webdev Section 32                | Sleep Early                         |
 | Sunday        |       Full Abs workout                   | Udemy Webdev SEction 33                | Plan for the next weeks & Take new book |
+
+## 2021-06-14 ~ 2021-06-20
+*Objectives of the week*  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
+| Udemy web development section 33|xxxxxxxxxxxxxxxxx|
+| Implement one data structure in c  (to refresh my c fingers) | xxxxxx                      |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxx                  |
+
+*Things to do everyday*  
+- [ ] Anki Droid Flash Cards revision.
+- [ ] Work on vocabs from the texts ive read.
+- [ ] Study "Why stocks go up and down" & rebalance Portfolio  
+- [ ] Cold shower every morning.
+
+*Weekly schedule*
+| Schedule      | Workout Session           (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:----------------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Full Abs-Workout                   | Udemy chapter 33                       | continued                           |
+| Tuesday       |       Body Weight Workout                | Implment Hash        using c           | udemy webdev section 33             |
+| Wednesday     |       Body Weight and Abs                | Udemy Webdev section 33                | continued                           |
+| Thursday      |       Full Abs Workout                   | Implement Hash       using cPP         | udemy webdev section 33             |
+| Friday        |       Body Weight Workout                | Udemy Webdev section 33                | Sleep Early                         |
+| Saturday      |       Weights Training                   | Plan development cycle for Blog website| Sleep Early                         |
+| Sunday        |       Full Abs workout                   | Plan development cycle for CryptoTrader| Plan for the next weeks & Take new book |
