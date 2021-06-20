@@ -227,15 +227,15 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
-| Udemy web development section 33|xxxxxxxxxxxxxxxxx|
-| Implement one data structure in c  (to refresh my c fingers) | xxxxxx                      |
-| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxx                  |
+| Udemy web development section 33| half way done, should be ashamed|
+| Implement one data structure in c  (to refresh my c fingers) | implemented hash                      |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | implemented hash                 |
 
 *Things to do everyday*  
-- [ ] Anki Droid Flash Cards revision.
-- [ ] Work on vocabs from the texts ive read.
-- [ ] Study "Why stocks go up and down" & rebalance Portfolio  
-- [ ] Cold shower every morning.
+- [x] Anki Droid Flash Cards revision.
+- [x] Work on vocabs from the texts ive read.
+- [x] Study "Why stocks go up and down" & rebalance Portfolio  
+- [x] Cold shower every morning.
 
 *Weekly schedule*
 | Schedule      | Workout Session           (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
@@ -247,3 +247,28 @@
 | Friday        |       Body Weight Workout                | Udemy Webdev section 33                | Sleep Early                         |
 | Saturday      |       Weights Training                   | Plan development cycle for Blog website| Sleep Early                         |
 | Sunday        |       Full Abs workout                   | Plan development cycle for CryptoTrader| Plan for the next weeks & Take new book |
+
+## 2021-06-14 ~ 2021-06-20
+*Objectives of the week*  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
+| Udemy web development section 33        | xxxxxxxxxxxxxxxxx |
+| Implement one data structure in c  (to refresh my c fingers) |    xxxxxxxxxxxx         |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxx                 |
+
+*Things to do everyday*  
+- [ ] Anki Droid Flash Cards revision.
+- [ ] Work on vocabs from the texts ive read.
+- [ ] Study "Why stocks go up and down" & rebalance Portfolio  
+- [ ] Cold shower every morning.
+
+*Weekly schedule*
+| Schedule      | Workout Session           (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:----------------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |  Destroy Them Abs Day                    | Duty day, Study Stocks & Plan Development cycle      | continued                           |
+| Tuesday       |  Destroy Them Abs Day                    | Implment bst using C                   | udemy webdev section 33             |
+| Wednesday     |       Body Weight and Abs                | Udemy Webdev section 33                | continued                           |
+| Thursday      |       Body Weight and Abs                | Implement bst using Cpp                | udemy webdev section 33             |
+| Friday        |       Body Weight and Abs                | Udemy Webdev section 33                | Sleep Early                         |
+| Saturday      |       Body Weight and Abs                | Seoul Innovation SQ AI&ML class        | Sleep Early                         |
+| Sunday        |       Body Weight and Abs                | Seoul Innovation SQ AI&ML class        | Plan for the next week              |
