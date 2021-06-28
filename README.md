@@ -272,3 +272,28 @@
 | Friday        |       Body Weight and Abs                | Udemy Webdev section 33                | Sleep Early                         |
 | Saturday      |       Body Weight and Abs                | Seoul Innovation SQ AI&ML class        | Sleep Early                         |
 | Sunday        |       Body Weight and Abs                | Seoul Innovation SQ AI&ML class        | Plan for the next week              |
+
+## 2021-06-28 ~ 2021-07-05
+*Objectives of the week*  
+| Objectives of the week                 | What i actually achieved            |
+|:--------------------------------------:|:-----------------------------------:|
+| Create skeletal structure for blog site| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+| Implement one data structure in c  (to refresh my c fingers) | xxxxxxxxxxxxxxxxx                     |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxx                 |
+
+*Things to do everyday*  
+- [ ] Anki Droid Flash Cards revision.
+- [ ] Work on vocabs from the texts ive read.
+- [ ] Study "Why stocks go up and down" & rebalance Portfolio  
+- [ ] Cold shower every morning.
+
+*Weekly schedule*
+| Schedule      | Workout Session           (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
+| ------------- |:----------------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Monday        |       Full Abs-Workout                   | Start Skeletal design for blog site    | continued                           |
+| Tuesday       |       Body Weight Workout                | Implment Graph adj list using c        | udemy webdev section 33             |
+| Wednesday     |       Body Weight and Abs                | Blog site Skeletal design              | continued                           |
+| Thursday      |       Full Abs Workout                   | Implement Hash       using cPP         | udemy webdev section 33             |
+| Friday        |       Body Weight Workout                | Front page coding in react             | Sleep Early                         |
+| Saturday      |       Weights Training                   | Seoul innovation SQ                    | Sleep Early                         |
+| Sunday        |       Full Abs workout                   | Seoul innovation SQ                    | Plan for the next weeks & Take new book |
