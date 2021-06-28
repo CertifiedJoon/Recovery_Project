@@ -252,15 +252,15 @@
 *Objectives of the week*  
 | Objectives of the week                 | What i actually achieved            |
 |:--------------------------------------:|:-----------------------------------:|
-| Udemy web development section 33        | xxxxxxxxxxxxxxxxx |
-| Implement one data structure in c  (to refresh my c fingers) |    xxxxxxxxxxxx         |
-| Implement one data structure in cpp (to refresh my cpp fingers)   | xxxxxxxxxxxxxxxx                 |
+| Udemy web development section 33        | Finished Udemy web development course |
+| Implement one data structure in c  (to refresh my c fingers) |    done         |
+| Implement one data structure in cpp (to refresh my cpp fingers)   | gotta redo                 |
 
 *Things to do everyday*  
-- [ ] Anki Droid Flash Cards revision.
-- [ ] Work on vocabs from the texts ive read.
-- [ ] Study "Why stocks go up and down" & rebalance Portfolio  
-- [ ] Cold shower every morning.
+- [x] Anki Droid Flash Cards revision.
+- [x] Work on vocabs from the texts ive read.
+- [x] Study "Why stocks go up and down" & rebalance Portfolio  
+- [x] Cold shower every morning.
 
 *Weekly schedule*
 | Schedule      | Workout Session           (16:20 - 17:20)| Day (WD:17:20~20:20)(WE 08:00 - 20:20) | Night (22:00 ~ 24:00)               |
